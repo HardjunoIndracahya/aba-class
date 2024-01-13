@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Website",
   "main": "postcss.config.js",
-  "devDependencies": {},
   "scripts": {
     "test": "npm run dev"
   },
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HardjunoIndracahya/aba-class/issues"
   },
-  "homepage": "https://github.com/HardjunoIndracahya/aba-class#readme"
+  "homepage": "https://github.com/HardjunoIndracahya/aba-class#readme",
+  "dependencies": {
+    "firebase": "^10.7.1"
+  }
 }
