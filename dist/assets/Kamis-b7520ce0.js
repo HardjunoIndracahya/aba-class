@@ -10,7 +10,7 @@ const t = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base  font-medium",
-            children: "Teknik Jaringan",
+            children: "Matematika",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
