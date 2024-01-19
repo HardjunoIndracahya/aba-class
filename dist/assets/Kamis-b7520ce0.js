@@ -14,7 +14,7 @@ const t = () =>
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "07.00-09.40",
+            children: "08.30-11.25",
           }),
         ],
       }),
@@ -29,7 +29,7 @@ const t = () =>
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "09.40-10.20",
+            children: "09.50-10.05",
           }),
         ],
       }),
@@ -41,11 +41,11 @@ const t = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base  font-medium",
-            children: "Penjaskes",
+            children: "IPA",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "10.20-11.40",
+            children: "11.25-13.30",
           }),
         ],
       }),
@@ -61,7 +61,7 @@ const t = () =>
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "11.40-12.20",
+            children: "12.05-12.50",
           }),
         ],
       }),
@@ -73,11 +73,11 @@ const t = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base font-medium",
-            children: "TKJ",
+            children: "Bahasa Inggris",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "12.20-13.40",
+            children: "13.30-14.50",
           }),
         ],
       }),

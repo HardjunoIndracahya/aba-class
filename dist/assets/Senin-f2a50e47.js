@@ -10,11 +10,11 @@ const a = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base  font-medium",
-            children: "Pendidikan Agama Islam",
+            children: "Matematika",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "08.00-09.20",
+            children: "08.30-09.50",
           }),
         ],
       }),
@@ -29,7 +29,7 @@ const a = () =>
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "09.20-09.40",
+            children: "09.50-10.05",
           }),
         ],
       }),
@@ -41,11 +41,11 @@ const a = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base  font-medium",
-            children: "Bahasa Indonesia",
+            children: "PAI",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "09.40-11.00",
+            children: "10.05-11.25",
           }),
         ],
       }),
@@ -57,11 +57,11 @@ const a = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base  font-medium",
-            children: "Desain Grafis",
+            children: "Tahsin Tahfidz",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "11.00-12.20",
+            children: "11.25-13.30",
           }),
         ],
       }),
@@ -76,7 +76,7 @@ const a = () =>
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "12.20-13.00",
+            children: "12.05-12.50",
           }),
         ],
       }),
@@ -88,11 +88,11 @@ const a = () =>
         children: [
           e.jsx("div", {
             className: "w-[50%] text-base font-medium",
-            children: "Desain Grafis",
+            children: "IPA",
           }),
           e.jsx("div", {
             className: "flex justify-center items-center text-sm",
-            children: "13.00-13.40",
+            children: "13.30-14.50",
           }),
         ],
       }),
