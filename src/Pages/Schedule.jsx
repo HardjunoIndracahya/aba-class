@@ -29,24 +29,24 @@ const Schedule = () => {
   let piketGroup = [];
 
   // Menentukan kelompok piket berdasarkan minggu saat ini
-  /*if (currentWeek === 2 || currentWeek === 4) {
+  if (currentWeek === 2 || currentWeek === 4) {
     piketGroup = [
-      ["Nicolas", "Togi", "Paulista", "Damar"],
-      ["Farel", "Jeriko", "Wahyu", "Davina"],
-      ["Alya", "Hendri", "Hisyam", "Dafy"],
-      ["Putri", "Natar", "Wahid", "Fadliansyah"],
-      ["Cariska", "Pratiwi", "Ridho", "Farji"],
+      ["Farrel", "Saddam", "Yusfa", "Adara", "Shillan", "Alya"],
+      ["Adly", "M.Hafiidz", "Dava", "Talita", "Bilqiis", "Tyara"],
+      ["Aira", "Hafiidz AB", "Qiesthie", "Juno", "Hisyam", "Yusro"],
+      ["Bayu", "Ihsan", "Akbar", "Faizah", "Syafira"],
+      ["Fahri", "Farros", "Raka", "Kiara", "Tyara"],
     ];
     /* sementara tuker week - masih perbaikan */
-/*  } else if (currentWeek === 1 || currentWeek === 3) {
+  /*  } else if (currentWeek === 1 || currentWeek === 3) {
     piketGroup = [
       ["Annissa", "Daus", "Eki", "Attala"],
       ["Sera", "Sultan", "Dimas", "Lista"],
       ["Windi", "Amel", "Arif", "Fadli"],
       ["Zaini", "Dendi", "Raka", "Bari"],
       ["Putri", "Paulista", "Nila"],
-    ];
-  }*/
+    ];*/
+  }
 
   const dayComponents = [
     null, // Kosongkan indeks 0
