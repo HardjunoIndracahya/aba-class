@@ -102,7 +102,7 @@ export default function ButtonRequest() {
 									.reverse()}
 							</div>
 							<div className="text-white text-[0.7rem] mt-5">
-								Note : Jika tidak ada gambar yang sudah anda upload silahkan reload
+								Note : Jika tidak ada gambar yang sudah anda upload silahkan reload. Gambar akan diseleksi oleh Tim IT IX ABA
 							</div>
 						</Typography>
 					</Box>
